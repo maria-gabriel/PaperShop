@@ -1,0 +1,7 @@
+<?php
+
+namespace TraitNameSpace
+
+trait TraitClass {
+
+}
